@@ -1,4 +1,4 @@
-module github.com/hello
+module github.com/harishpatankar/go_practice/tree/master/hello
 
 go 1.24.1
 
